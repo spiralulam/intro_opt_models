@@ -12,3 +12,4 @@ If you want add something you may create a PR, open an issue or just send me an
 - p. 54, "den den MSE"
 - p. 63, "das beschrieben**e** Problem"
 - p. 68, "jede**r** Entscheidungsvariable"
+- MIQP -> MIQCP
