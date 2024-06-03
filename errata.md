@@ -14,9 +14,12 @@ If you want add something you may create a PR, open an issue or just send me an
 - p. 54, "den den MSE"
 - p. 63, "das beschrieben**e** Problem"
 - p. 68, "jede**r** Entscheidungsvariable"
+- p. 118, problem statement. min_y... has to be min_b... instead, since b is a decision variable and y is fixed
 - p. 121, "Nun möchten Sie modellieren, dass sich DIE EINTRÄGE pro ..."
 - p. 142Z-4, "Definition einer konvexen Menge"
 - p. 167Z-4, space after bracket missing
+- p. 169, delta (v,u) instead of (u,v)
+- p. 179 and following, t/t' (and K/K') mixed up
 - p. 185Z-1, brackets around "7.1" missing
 - p. 198Z8, comma after "Planungsmodell" missing
 - MIQP -> MIQCP
