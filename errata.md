@@ -12,6 +12,7 @@ If you want add something you may create a PR, open an issue or just send me an
 - p. 45, "maximierende**n** Zielgröße"
 - p. 52, "Was auf den erste**m** Blick"
 - p. 54, "den den MSE"
+- p. 56, "beschert Ihnen das unrestringierte quadratische..."
 - p. 63, "das beschrieben**e** Problem"
 - p. 68, "jede**r** Entscheidungsvariable"
 - p. 118, problem statement. min_y... has to be min_b... instead, since b is a decision variable and y is fixed
