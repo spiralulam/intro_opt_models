@@ -18,6 +18,7 @@ If you want add something you may create a PR, open an issue or just send me an
 - p. 118, problem statement. min_y... has to be min_b... instead, since b is a decision variable and y is fixed
 - p. 121, "Nun möchten Sie modellieren, dass sich DIE EINTRÄGE pro ..."
 - p. 142Z-4, "Definition einer konvexen Menge"
+- p. 149, the distance between the circle mid points should be 2r (and not r). Thanks to Zlatan for pointing this out!
 - p. 167Z-4, space after bracket missing
 - p. 169, delta (v,u) instead of (u,v)
 - p. 179 and following, t/t' (and K/K') mixed up
